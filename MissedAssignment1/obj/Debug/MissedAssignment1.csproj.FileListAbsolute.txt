@@ -1,0 +1,10 @@
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\bin\Debug\MissedAssignment1.exe.config
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\bin\Debug\MissedAssignment1.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\bin\Debug\MissedAssignment1.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\obj\Debug\MissedAssignment1.csprojAssemblyReference.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\obj\Debug\MissedAssignment1.Properties.Resources.resources
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\obj\Debug\MissedAssignment1.csproj.GenerateResource.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\obj\Debug\MissedAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\obj\Debug\MissedAssignment1.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\obj\Debug\MissedAssignment1.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\MissedAssignment1\obj\Debug\MissedAssignment1.ShowData.resources
